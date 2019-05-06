@@ -8,6 +8,7 @@
 
 ## 安装下载
 
+- 下载地址 https://github.com/quick-cache/quick-cache/releases
 
 ## 快速使用
 
